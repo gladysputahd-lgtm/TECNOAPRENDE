@@ -1,0 +1,7 @@
+{
+  "name": "TECNOAPRENDE",
+  "description": "An educational application designed to teach basic digital literacy to people with limited experience, using adaptive AI to personalize learning. Created by students of IE Gran Libertador Simón Bolívar for the 'Alfabetización Digital para Caylloma' social entrepreneurship project.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
